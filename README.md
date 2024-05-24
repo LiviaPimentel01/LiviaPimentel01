@@ -5,7 +5,7 @@
 - **Mechatronics** - Arts et Métiers ParisTech (ENSAM), France  
 
 💼 **Current Position**  
-- **Data Scientist** at Quantum Black, AI by McKinsey, São Paulo, Brazil
+- **Data Scientist** @ Quantum Black, AI by McKinsey, São Paulo, Brazil
 
 🚀 **Professional Experience**  
 I have a strong background in data science and machine learning. Here are some highlights of my career:
@@ -18,11 +18,7 @@ I have a strong background in data science and machine learning. Here are some h
 👩‍🏫 **Volunteer Work**  
 - Mentor at GRACE, supporting young girls aged 8-18 in using innovative methods to develop mobile apps that address issues related to the Sustainable Development Goals .
 
-📫 **Connect with me**  
+📫 **Let's connect!**  
 - [GitHub](https://github.com/LiviaPimentel01)
 - [LinkedIn](https://www.linkedin.com/in/liviafpimentel)
 - [Medium](https://medium.com/@liviafragoso.pi)
-
-I am passionate about leveraging advanced analytics and machine learning to extract meaningful insights and solutions. I am always eager to solve intricate business problems and drive innovation across different industries. 
-
-Let's connect!
